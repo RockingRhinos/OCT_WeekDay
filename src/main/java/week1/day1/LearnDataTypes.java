@@ -9,7 +9,7 @@ public class LearnDataTypes {
 		
 		boolean flag = false;
 		
-		char ch = '6';
+		char ch = '7';
 		System.out.println(ch);
 		
 	}

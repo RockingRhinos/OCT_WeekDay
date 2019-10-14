@@ -7,7 +7,7 @@ public class MobilePhone {
 	String color = "Black";
 
 	public String makeCall(String contact) {
-		//String brand = "apple";
+		//String brand = "Apple";
 		System.out.println("call connected to "+contact);
 		return contact;
 	}
